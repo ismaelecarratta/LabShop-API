@@ -1,5 +1,5 @@
 # 🎮 LabShop REST
-Questo progetto è una REST API realizzata in **Spring Boot** e **Java** per il progetto frontend [LabShop](https://github.com/Lica00/LabShop_v2)
+Questo progetto è una REST API realizzata in **Spring Boot** e **Java** per il progetto frontend [LabShop](https://github.com/ismaelecarratta/LabShop)
 
 
 
