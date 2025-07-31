@@ -1,4 +1,4 @@
-# 🎮 LabShop REST
+# 🎮 LabShop API
 Questo progetto è una REST API realizzata in **Spring Boot** e **Java** per il progetto frontend [LabShop](https://github.com/ismaelecarratta/LabShop)
 
 
